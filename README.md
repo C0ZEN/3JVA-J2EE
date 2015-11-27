@@ -5,9 +5,9 @@ Le site sera en Français
 
 -- Contributeurs --
 
-COMPERE Benoît
-LOYER Maxime
-TESTELIN Geoffrey
+COMPERE Benoît  
+LOYER Maxime  
+TESTELIN Geoffrey  
 
 -- Charte de codage --
 
