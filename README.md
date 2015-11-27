@@ -3,13 +3,13 @@ Projet SUPINFO B3 en J2EE - SupTrip
 
 Le site sera en Français
 
--- Contributeurs --
+- - Contributeurs - -
 
 COMPERE Benoît  
 LOYER Maxime  
 TESTELIN Geoffrey  
 
--- Charte de codage --
+- - Charte de codage - -
 
 Nomage de fonctions:  
   - En anglais  
@@ -27,7 +27,7 @@ Commentaires:
   - Dans le scope d'une fonction, le commentaire précède la ligne à commentée  
   - Pas de commentaire en bout de ligne sauf lorsqu'il s'agit d'une initialisation de variable  
 
--- Charte graphique --  
+- - Charte graphique - -  
 
 Utilisation de Twitter Bootstrap 3  
 Thème FlatUI  
