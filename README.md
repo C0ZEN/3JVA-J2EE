@@ -6,7 +6,7 @@ Le site sera en Français
 -- Contributeurs --
 
 COMPERE Benoît  
-LOYER Maxime  
+LOYEZ Maxime  
 TESTELIN Geoffrey  
 
 -- Charte de codage --
